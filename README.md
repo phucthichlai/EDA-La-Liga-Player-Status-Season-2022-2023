@@ -1,4 +1,4 @@
-# <h1 align="center"> :soccer: EDA about La Liga Player Status Season 2022-2023 <img src="https://user-images.githubusercontent.com/104643138/226205932-8ee3d53c-a401-4f63-94e2-7d171548deb0.png" width="50" height="50"></h1>
+# <h1 align="center"> :soccer: EDA - La Liga Player Status Season 2022-2023 <img src="https://user-images.githubusercontent.com/104643138/226205932-8ee3d53c-a401-4f63-94e2-7d171548deb0.png" width="50" height="50"></h1>
 
 ## **1. Introduction** :pushpin:
 
