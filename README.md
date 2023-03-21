@@ -20,7 +20,7 @@
 - It can be seen that <strong>Atletico</strong> has the <strong>highest</strong> age median among the top 3, especially compared with <strong>Barcelona</strong>.</p>
 
 <img width="1000" alt="Ảnh chụp Màn hình 2023-03-20 lúc 04 20 17" src="https://user-images.githubusercontent.com/104643138/226206732-6bda54cd-565b-41fe-9eca-c442fc859299.png">
-- It can be seen that <strong>Atletico</strong> lies in the oldest teams, while <strong>Barcelona</strong> contains comparatively younger squad. This would help Barcelona maintain and develop their play style and strategies in the next seasons</p>
+- It can be seen that <strong>Atletico</strong> lies in the oldest teams, while <strong>Barcelona</strong> contains comparatively younger squad. This would help Barcelona maintain performance quality due to the squad's stamina, as well as develop their play style and strategies during the season.</p>
 
 <img width="1000" alt="Ảnh chụp Màn hình 2023-03-20 lúc 04 22 37" src="https://user-images.githubusercontent.com/104643138/226206820-ed0456f7-8802-47eb-8fbf-90e8246b9897.png">
 - It can be clearly seen from this chart that <strong>less than 20%</strong> players of Atletico aged 26 and under, while young players aged U26 account for more than <strong>50%</strong> and <strong>60%</strong> in Real Madrid and Barcelona respectively.</p>
@@ -29,7 +29,7 @@
 - The average Age is shown to have a <strong>negative correlation</strong> with a team's goal number, though the statistical meaning is not significant (~-0.25)</p>
 
 <img width="762" alt="Ảnh chụp Màn hình 2023-03-20 lúc 04 24 48" src="https://user-images.githubusercontent.com/104643138/226206933-7ccf6ec3-066d-4278-9116-5550f5b2afff.png">
-- While there are many options for scoring goals in Real Madrid, Barcelona is quite dependent on Lewandowski who delivered <strong>32%</strong> of the team goal. This could be the reason why they can't compete with Real Madrid in a long-term race like Laliga, though they have just won Real Madrid in the latest match. Meanwhile, A.Griezmann and A.Morata are delivering more than <strong>50%</strong> of Atletico goals.</p>
+- While there are many options for scoring goals in Real Madrid, Barcelona is quite dependent on Lewandowski who delivered <strong>32%</strong> of the team goal. This could be the reason why they haven't beaten Real Madrid in a long-term race like Laliga in the last few seasons, though they have just won Real Madrid in the latest match. However, let's see what could be changed in this season when Barcelona is 12 points away from Real Madrid. Meanwhile, A.Griezmann and A.Morata are delivering more than <strong>50%</strong> of Atletico goals.</p>
 
 ## 4. Technologies used ⚙️:satellite:
 - [Python](https://coursera.org/share/9633cd154ac74544f87f83434258a90b) <img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png" width="24" height="24">
